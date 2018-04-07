@@ -1,0 +1,16 @@
+generar valores
+punto j este en cluster i
+N = 2
+sigma sub i = matriz random de n*n n = dimencion
+xj = punto = entrada
+mu = random
+t = transpuesta
+
+inversa de sigma
+
+resta de input - mu
+
+eij = eij / R
+
+
+
